@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sampledemo" />
-        <module name="spring-boot-security-saml-sample" />
         <module name="spring-saml" />
+        <module name="sampledemo" />
+        <module name="demo" />
+        <module name="spring-boot-security-saml-sample" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
